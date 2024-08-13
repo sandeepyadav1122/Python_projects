@@ -3,7 +3,7 @@
 System Power Toolkit is a simple Python application built using Tkinter that allows users to perform system power operations such as Restart, Restart with Delay, Log Out, and Shutdown directly from a graphical interface.
 
 ## Interface Preview
-[link]
+![system](https://github.com/user-attachments/assets/354e54a5-681a-4c86-b1ac-96ea2c077b60)
 
 ## Features
 
