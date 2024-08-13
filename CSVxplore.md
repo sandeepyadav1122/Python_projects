@@ -36,16 +36,13 @@ To run this application locally, follow these steps:
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home](https://github.com/user-attachments/assets/d90b45d1-9232-4bef-b51b-ef22b28d6eba)
 
 ### Data Preview
-![Data Preview](screenshots/data_preview.png)
-
-### Descriptive Statistics
-![Descriptive Statistics](screenshots/descriptive_statistics.png)
+![dp](https://github.com/user-attachments/assets/ffe94135-9955-40a2-8126-4d11730d5ca1)
 
 ### Data Visualization
-![Data Visualization](screenshots/data_visualization.png)
+![dvv](https://github.com/user-attachments/assets/e21ff890-6f45-472a-a9ff-95b582b38109)
 
 ## Acknowledgments
 
