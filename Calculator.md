@@ -32,7 +32,7 @@ To run this application on your local machine, follow these steps:
 ## Screenshots
 
 ### Calculator Interface
-![Calculator Interface](screenshots/calculator_interface.png)
+![calculator ](https://github.com/user-attachments/assets/36129fe5-2946-428f-a8bf-20cdaa102965)
 
 
 ## Acknowledgments
